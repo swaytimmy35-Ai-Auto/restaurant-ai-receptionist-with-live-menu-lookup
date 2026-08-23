@@ -215,7 +215,25 @@ The result is an AI-powered restaurant receptionist that combines voice AI, tool
 
 📸 Screenshots
 
-Screenshots demonstrating the voice assistant, menu database, n8n workflows, customer interactions, and staff notifications will be added here.
+### Vapi AI Assistant & Custom Tool
+
+![Vapi AI Assistant & Custom Tool](screenshots/vapi-setup.PNG)
+
+### Live Airtable Menu
+
+![Live Airtable Menu](screenshots/airtable-menu.PNG)
+
+### n8n Automation Workflow
+
+![n8n Automation Workflow](screenshots/n8n-workflow-1.PNG)
+
+### n8n Automation Live Menu Lookup Workflow 
+
+![n8n Automation Workflow](screenshots/n8n-workflow-2.PNG)
+
+### Telegram Kitchen Notification
+
+![Telegram Kitchen Notification](screenshots/telegram-kitchen-notification.PNG)
 
 ⸻
 
