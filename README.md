@@ -221,7 +221,7 @@ The result is an AI-powered restaurant receptionist that combines voice AI, tool
 
 ### Live Airtable Menu
 
-![Live Airtable Menu](screenshots/airtable-menu.PNG)
+![Live Airtable Menu](screenshots/airtable-menu.jpg)
 
 ### n8n Automation Workflow
 
@@ -239,9 +239,9 @@ The result is an AI-powered restaurant receptionist that combines voice AI, tool
 
 🎥 Demo
 
-A full walkthrough demonstrating the AI receptionist, live menu lookup, order handling, reservation flow, complaint handling, and staff notifications will be linked here.
+A full walkthrough demonstrating the AI receptionist, live menu lookup, order handling, reservation flow, complaint handling, and staff notifications.
 
-Demo: Coming soon
+Demo: [Resturant AI receptionist with Live Menu Lookup Demo Video](https://www.loom.com/share/1809bff28b6b4377af91ce5068f9288d)
 
 ⸻
 
