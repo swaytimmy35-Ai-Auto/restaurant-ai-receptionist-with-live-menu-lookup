@@ -55,6 +55,8 @@ Restaurant staff receive instant Telegram notifications when relevant customer i
 
 ## 🏗️ Workflow Architecture
 ### Customer Interaction & Menu Lookup
+![System Architecture](docs/architecture.PNG)
+
 ```
 Customer
    ↓
