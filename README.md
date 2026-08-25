@@ -275,7 +275,7 @@ Demo: [Resturant AI receptionist with Live Menu Lookup Demo Video](https://www.l
 
 👤 Author
 
-Hammed Timmy
+Okanlawon Abdulhammed
 
 AI & Automation Builder
 
